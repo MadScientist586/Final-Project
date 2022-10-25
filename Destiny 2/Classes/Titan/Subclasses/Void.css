@@ -1,0 +1,9 @@
+h1 {
+    text-align: center;
+}
+#Void{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
