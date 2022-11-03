@@ -7,3 +7,8 @@
 h1{
     text-align: center;
 }
+#Arc-Staff{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
