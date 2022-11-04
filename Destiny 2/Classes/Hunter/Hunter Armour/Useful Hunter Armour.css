@@ -1,5 +1,6 @@
 h1{
     text-align: center;
+    margin-top: 100px;
 }
 
 img{
@@ -9,4 +10,8 @@ img{
     width: 50%;
 }h2{
     text-align: center;
+}
+div{
+    padding: 20px;
+    margin: 20px 20px 20px 20px;
 }
