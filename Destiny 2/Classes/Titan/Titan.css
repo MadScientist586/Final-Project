@@ -17,6 +17,7 @@ h3 {
     display: block;
     margin-left: auto;
     margin-right: auto;
+    margin-top: 15px;
     
 }
 #Titan-Throw{
@@ -28,4 +29,5 @@ h3 {
     display: block;
     margin-left: auto;
     margin-right: auto;
+    margin-bottom: 15px;
 }
